@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#ff0a100d</color>
+    <color name="purple_500">#ffb9baa3</color>
+    <color name="purple_700">#ffd6d5c9</color>
+    <color name="teal_200">#ffa22c29</color>
+    <color name="teal_700">#ff902923</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    /* CSS HEX */-->
+<!--    &#45;&#45;night: #ff0a100d;-->
+<!--    &#45;&#45;ash-gray: #ffb9baa3;-->
+<!--    &#45;&#45;timberwolf: #ffd6d5c9;-->
+<!--    &#45;&#45;auburn: #ffa22c29;-->
+<!--    &#45;&#45;burnt-umber: #ff902923;-->
+
+</resources>
